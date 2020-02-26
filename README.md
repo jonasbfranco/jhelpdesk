@@ -1,12 +1,12 @@
 # jhelpdesk
 Este é um projeto para um helpdesk, a tecnologia usada é Javascript Technologies like Nodejs, Mongodb.
-colaborativo
+
 
 # Tecnologias Usadas
-Nodejs
-Express
-Mongodb
-FontAwesome
+- Nodejs
+- Express
+- Mongodb
+- FontAwesome
 
 
 # Instruções
