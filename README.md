@@ -1,12 +1,15 @@
 # jhelpdesk
 Projeto helpdesk colaborativo
 
-# Tecnologias Ussadas
-nodejs
-express
-mongodb
+# Tecnologias Usadas
+Nodejs
+Express
+Mongodb
+FontAwesome
+
 
 # Instruções
+
 
 # Idealizadores
 Jonas
